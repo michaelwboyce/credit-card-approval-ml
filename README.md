@@ -60,6 +60,14 @@ The grid search cross-validation score was approximately:
 
 Potential improvements include comparing Logistic Regression with additional classification algorithms such as Random Forest, Gradient Boosting, and Support Vector Machines, as well as evaluating models using precision, recall, F1-score, and ROC-AUC.
 
+## Responsible Use
+
+This project is intended for educational purposes. Real-world credit decision systems require additional considerations including fairness and bias testing, explainability, privacy, regulatory compliance, security, and human oversight. Accuracy alone would not be sufficient for deploying a model in a real lending environment.
+
+## Dataset
+
+This project uses a subset of the Credit Approval dataset from the UCI Machine Learning Repository.
+
 ## Author
 
 Michael Boyce
